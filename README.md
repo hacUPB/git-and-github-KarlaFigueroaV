@@ -1,18 +1,23 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante: Karla Figueroa Velilla 
+Id.:  000577167
 ---
 # Evaluación
 
 ### **Descripción de la Actividad:**
 
-El objetivo de esta actividad es crear y estructurar un proyecto de programación utilizando Git y GitHub. Aunque el código fuente será un componente mínimo, el enfoque estará en la organización del proyecto y la documentación de lo aprendido sobre los siguientes temas:
+Mi repositorio incluye scripts, documentos y el paso a paso de como relaizar la creación del mismo, y está pensado para ser usado por compañeros para editar el proyecto.
 
-1. Uso de la consola para navegar entre directorios, crear directorios y archivos.
-2. Creación de repositorios locales usando comandos de Git.
-3. Creación de repositorio remoto en GitHub y sincronización con el repositorio local.
+## Pasos para clonar y ejecutar el proyecto:
+- Clono el repositorio usando la URL del proyecto en GitHub.
+- Entro en la carpeta del repositorio que acabo de clonar.
+- Si el proyecto tiene dependencias, las instalo.
+- Ejecuto el proyecto según el tipo, por ejemplo, con un simple comando de inicio.
+
+## TABLA DE CONTENIDO 
+
 
 **Instrucciones:**
 
