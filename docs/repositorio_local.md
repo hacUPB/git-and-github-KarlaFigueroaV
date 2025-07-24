@@ -7,4 +7,4 @@
 * Agrego los archivos al área de preparación.
 * Hago el primer commit.
 
-![FOTO CÓDIGO](../images/REPOSITORIO_LOCAL)
+![FOTO CÓDIGO](../images/REPOSITORIO_LOCAL.jpg)
