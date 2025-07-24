@@ -17,6 +17,7 @@ Mi repositorio incluye scripts, documentos y el paso a paso de como relaizar la 
 - Ejecuto el proyecto según el tipo, por ejemplo, con un simple comando de inicio.
 
 ## TABLA DE CONTENIDO 
+- [CARPETA DOCS] (./docs)
 
 
 **Instrucciones:**
