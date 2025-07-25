@@ -17,9 +17,9 @@ Mi repositorio incluye scripts, documentos y el paso a paso de como relaizar la 
 - Ejecuto el proyecto según el tipo, por ejemplo, con un simple comando de inicio.
 
 ## TABLA DE CONTENIDO 
-- [REPOSITORIO LOCAL](./docs/repositorio_local)
-- [REPOSITORIO REMOTO](./docs/repositorio_remoto)
-- [USO CONSOLA] (./docs/uso_consola) 
+- [REPOSITORIO LOCAL](docs/repositorio_local)
+- [REPOSITORIO REMOTO](docs/repositorio_remoto)
+- [USO CONSOLA] (docs/uso_consola) 
 
 
 **Instrucciones:**
