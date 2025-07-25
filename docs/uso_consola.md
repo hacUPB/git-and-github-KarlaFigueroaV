@@ -8,4 +8,5 @@
 
 - Se introdujeron comandos como **rm** para eliminar archivos y rmdir para eliminar carpetas vacías.
 
+![FOTO CÓDIGO](../images/CONSOLA.jpg)
 
